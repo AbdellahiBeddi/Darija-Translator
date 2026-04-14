@@ -1,0 +1,5 @@
+ma\translator\BasicAuthFilter.class
+ma\translator\TranslatorResource.class
+ma\translator\GeminiService.class
+ma\translator\TranslatorResource$TranslationRequest.class
+ma\translator\AppConfig.class
